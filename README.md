@@ -1,16 +1,29 @@
-### Hi there 👋
+### WHOMEGALUL is rootbeerdan
 
-<!--
-**rootbeerdan/rootbeerdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Networking
+  - IPv6 ⭐⭐⭐⭐⭐
+  - BGP (Traffic engineering) ⭐⭐⭐⭐
+  - Zero Trust Networking ⭐⭐⭐⭐
+- System Administration
+  - Amazon Linux 2 ⭐⭐⭐⭐
+  - Ubuntu ⭐⭐⭐⭐
+  - Zero Trust ⭐⭐⭐⭐
+- Cloud
+  - Amazon Web Services ⭐⭐⭐⭐
+  - Azure ⭐⭐⭐
+  - Google Cloud ⭐⭐
+- DevOps
+  - GitLab CI ⭐⭐⭐⭐ 
+  - Terraform ⭐⭐⭐
+  - GitHub Actions ⭐⭐⭐
+  - AWS CodeBuild ⭐⭐⭐
+  - Docker ⭐⭐⭐
+  - Kubernetes ⭐⭐
+  - Elastic Container Service ⭐⭐⭐⭐
+ - Programming
+   - Python ⭐⭐
+   - Go ⭐
+   - JavaScript ⭐
+ - Scripting
+   - Bash ⭐⭐⭐⭐
+   - Powershell ⭐⭐⭐
