@@ -15,7 +15,7 @@
 - DevOps
   - GitLab CI ⭐⭐⭐⭐ 
   - Terraform ⭐⭐⭐
-  - GitHub Actions ⭐⭐⭐
+  - Jenkins ⭐⭐
   - AWS CodeBuild ⭐⭐⭐
   - Docker ⭐⭐⭐
   - Kubernetes ⭐⭐
