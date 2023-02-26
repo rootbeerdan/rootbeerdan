@@ -1,5 +1,5 @@
-### Note
+# About me
 
-I mainly use GitLab due to the superior CI/CD capabilities offered by GitLab CI
+DevOps engineer @ May Mobility and owner of rbd.gg
 
-https://gitlab.com/rootbeerdan
+Find me at https://danielmarks.dev
