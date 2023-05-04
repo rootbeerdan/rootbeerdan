@@ -1,5 +1,5 @@
 # About me
 
-DevOps engineer @ May Mobility and owner of rbd.gg
+DevOps engineer @ May Mobility
 
 Find me at https://danielmarks.dev
